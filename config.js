@@ -4,14 +4,14 @@
 
 module.exports = {
     // Bot Owner Configuration
-    ownerNumber: ['91xxxxxxxxxxx','917023951514'], // Add your number without + or spaces (e.g., 919876543210)
-    ownerName: ['Knight Bot Mini', 'Professor'], // Owner names corresponding to ownerNumber array
+    ownerNumber: ['2349030679705',''], // Add your number without + or spaces (e.g., 919876543210)
+    ownerName: ['Azure', 'Professor'], // Owner names corresponding to ownerNumber array
     
     // Bot Configuration
     botName: 'Knight Bot Mini',
     prefix: '.',
     sessionName: 'session',
-    sessionID: process.env.SESSION_ID || '',
+    sessionID: process.env.SESSION_ID || 'KnightBot!H4sIAAAAAAAAA5VUTZOiSBD9L3XVGBAVhIiOGERAQRBB8WNjDgWUgCDQVYWgE/73Ddru6Tnszvbeiqzi5cv3MvMnKMqUIBPdgPQTVDi9Qoq6I71VCEhgWp9OCIM+iCCFQAKyc2Zm1d7WkoqRvWa22zX6KdBxu7dJS+0epyfBK52VxkB+AY8+qOogT8M/ABrIhNuB185W1UY7sWdngulhINRGoq12gbFnil1Vium81yxewKNDhClOi1itEnRBGOYmujkwxV+jz9rrm7DmVW1UCspl4uqe4GCSs9OBrTLMJNuexzYcbIbVNvsa/Y2Zjo+H1nmFyWSMEsvixlU+01zq8pu5XQZBYe5MTXTmjfqkT9K4QNEiQgVN6e3Luu9UX0nUtqqZaMsgrz67w3W8qkVNw0F7txHx7h4dwt01+yLxlo8b09aMUqBHv0Xt9CSOA7oci+7Y4UOvWtqqMA3gMs2b34k7+KNXsv+ju6VFNZ+umn0VCidLqA5cG/K1y3randkpHFf2xkHmqqGdNV+jPw+M1/1tq9wZ+ygm9p4dlU2oeZYcH/Xw7jLQuTlH3RIDlv2kD2mN/8QyYvWqmipJ+OrrSU6MXjOkvIU5zySZpgSbOTWms2LsTRo/u4ilYdBYUFZEZf321dF74vT1VnHsdb7LLlnkWFF2KAtZfnmrKEO3RQSkwaMPMIpTQjGkaVl0MW7A9QGMrh4KMaJv8gKKSwGP9bpnBKKlC2fHXnrZdJMwr2Gcw8a1rbIZ7UeLuCEvoA8qXIaIEBTNU0JLfLMQITBGBEh//eiDArX0aVyXbjjog1OKCd0WdZWXMPpw9eMShmFZF9S7FaHSHRAGEvsZRpSmRUw6HesC4jBJr0hJICVAOsGcoF8VIowiIFFco19Tq5RRJ7xumvOhv5uBPri8GZJGQALccCSyQ5YXRIEdS/x38q3pYGFVfSsQBX1QwO41kO+djX2QP/8ajUR+NBgJ/HAyHE0k/nsXf/zi28FHiMI0J0ACyqoW6no7UxfOvrRYXZfXsazEMvis76NRnkYs/Y06tsr1IGbnh0gfxcxQiWfNMKq2/mIlV6l4yc5ZsJnsJy//AAIk4Idbu1bYk9euDNVT8N2zuIyLi8K8HTeKkZO7EK68EA4b07dX+mrvt2yGZbfeXqZnNF2ydkNdI28uI3G6sbz16lyYs/ilyxahaxqi35Md+ST03UQIk1K/YG/K17utAFVZvlWu3viDsq0J12NqNJddy94vfc2ar+7uaW0IM35NeHdEeYiO3Oykq+M6F5jFzpKbZwu/jVD+vrrSt+bqnOs+Tyl62wTvDv2nk0/iXcOxj/5vGO+75V/mc+oNtu1qY6r2wZ5yc7deOGJTyhN7CH3Nm8Xm4XqsFmOdZTQGPB4/+qDKIT2V+AIkQC4BBH2Ay7pr30VxKv+QSZHZhRrHSld2DgmVP0dik14QofBSAWkgCBzPTSbC4PnKwWU1hyTpFNBH8qUGj78BF+m6oWAHAAA=',
     newsletterJid: '120363161513685998@newsletter', // Newsletter JID for menu forwarding
     updateZipUrl: 'https://github.com/mruniquehacker/KnightBot-Mini/archive/refs/heads/main.zip', // URL to latest code zip for .update command
     
